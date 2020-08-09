@@ -1,0 +1,18 @@
+.one { display: flex;
+padding-left: 1700px;
+
+}
+
+.two { display: flex;
+    justify-content: space-evenly;
+
+
+}
+.three { display: flex;
+    justify-content: space-evenly;
+}
+ 
+.four { display: flex;
+justify-content: space-evenly;
+
+}
